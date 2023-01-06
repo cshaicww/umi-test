@@ -6,7 +6,7 @@ export default defineConfig({
   },
   routes: [
     // { path: '/', component: '@/pages/index' },
-    { path: '/formTest', component: '@/pages/formTest' },
+    { path: '/', component: '@/pages/formTest' },
   ],
   fastRefresh: {},
 });
